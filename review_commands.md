@@ -544,6 +544,8 @@ $ chmod 666 file1.txt
 $ chmod u+x file.txt
 ```
 
+* * *
+
 ### ウェブからのダウンロード: `wget`
 
 ```
