@@ -309,7 +309,7 @@ test $ ls
 test $ cd ..
 data $ ls
 Ahal	test	file
-data $ rm –r file
+data $ rm –r test
 data $ ls
 Ahal	file
 data $
